@@ -4,7 +4,7 @@
 ## Description
 How giraffes are
 ## Setup/Installation Requirements
-* This is a great place
+* None is required
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
